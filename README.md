@@ -4,3 +4,5 @@
 - File (Path to ACF file)
 - AppID
 - Name (game name)
+
+This is useful if your hard drive dies or you partition/format the drive your steam library is on.  You now have a list of the games that were installed previously so you know which Steam games to reinstall.
